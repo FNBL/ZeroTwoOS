@@ -30,4 +30,4 @@ ZeroTwoOS is an unofficial modification of Windows 10 LTSC.
 ![image](https://github.com/user-attachments/assets/7b094e2d-d95f-4288-a644-84158448b066)
 
 * **ZTOS Uses Less Processes Than Many Major CustomOS`**
-* **ZTOS Also Uses Less Than 30 GB of Storage For Installation**
+* **ZTOS Also Uses Less Than 25 GB of Storage For Installation**
